@@ -66,8 +66,8 @@
 ### My Bets on Where Tech Is Going
 
 **1. The "user" in UX is becoming an agent.**
-We are moving to a world where people interact with your product primarily through ChatGPT, Claude, or another AI agent. The products that win will be the easiest for agents to use, not the best-looking dashboards.
-My 60-year-old mother uses ChatGPT instead of Google, Booking.com, and half a dozen other apps. Perplexity Comet takes it further — a full browser where the AI navigates tabs, fills forms, and completes the booking without a human touching the screen.
+We are entering a world where most people interact with your product through an AI agent, not your app directly. If your product only works when a human visits your website, you are already behind.
+Case in point, my 60-year-old mother already uses Perplexity Comet to search and compare flights instead of opening Expedia or Google Flights herself.
 
 **2. Per-seat SaaS pricing is dead.**
 When one person with agents does the work of five, per-seat pricing breaks. The new model is usage or outcome-based.
