@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+- 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)** - Open-source personal operating system for Claude Code. Built for PMs: full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), and a self-improving skill that extracts reusable knowledge from every session
 - 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)** - RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
 - 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)** - Android checklist app built around the "do the hardest task first" productivity method
 
