@@ -13,7 +13,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
 
-> 10+ years across consulting, operations, and product. Scaled platforms from $6M → $21M ARR, grew ecosystems from 40 → 130+ integrations, and shipped AI features that cut review time by 50%. Now building agentic workflows and writing about the future of AI products.
+> 10+ years across consulting, operations, and product. Scaled platforms from $6M → $21M ARR, grew ecosystems from 40 → 130+ integrations, and shipped AI features that cut review time by 50%. Now I vibe code AI agents, ship things I definitely could not have built otherwise, and write about why that's the future of product work.
 
 🌐 **[brandonkhoo-portfolio.vercel.app](https://brandonkhoo-portfolio.vercel.app)** — AI case studies, side projects, and how I ship
 
