@@ -19,18 +19,18 @@
 
 ## Current Projects
 
-- 🦞 **OpenClaw** *(in progress)* - Building an open-source autonomous AI agent that runs locally and lives in your WhatsApp or Telegram. Think personal employee — except it manages a fleet of AI agents across Marketing, Product, and Eng and never asks for PTO
-- 🪿 **[Agent Goose](https://agentgoose.substack.com/)** - Writing about the future of agentic AI — what it means to build with agents, ship AI products, and work alongside AI day to day
-- 📞 **[Crevo Partners](https://www.crevopartners.com/)** - Helping businesses launch with AI voice agents — from scoping the right use case to deploying production-ready agents that handle real calls
-- 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)** - Open-source personal operating system for Claude Code. Built for PMs: full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), and a self-improving skill that extracts reusable knowledge from every session
-- 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)** - RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
-- 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)** - Android checklist app built around the Eisenhower Matrix — prioritise by urgency and importance, tackle the hardest task first
+- 🦞 **OpenClaw** *(in progress)*: Open-source autonomous AI agent that runs locally and lives in your WhatsApp or Telegram. Think personal employee. It manages a fleet of AI agents across Marketing, Product, and Eng and never asks for PTO
+- 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
+- 📞 **[Crevo Partners](https://www.crevopartners.com/)**: Helping businesses launch with AI voice agents, from scoping the right use case to deploying production-ready agents that handle real calls
+- 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), and a self-improving skill that extracts reusable knowledge from every session
+- 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)**: RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
+- 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)**: Android checklist app built around the Eisenhower Matrix. Prioritise by urgency and importance, tackle the hardest task first
 
 ### Legacy Work
 
-- 🎯 **[Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)** - End-to-end account-based workflow: ICP scoring → buying committee discovery → coordinated multi-persona messaging with human review checkpoints
-- 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)** - Built end-to-end with Cursor + Claude + Vercel. Full game loop: movement, shooting, enemies, scoring, boss battles — shipped in a weekend
-- 🐍 **[Awesome Python Scripts](https://github.com/brandonckhoo/Awesome-Python-Scripts)** - Fork: curated Python automation scripts
+- 🎯 **[Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: End-to-end account-based workflow covering ICP scoring, buying committee discovery, and coordinated multi-persona messaging with human review checkpoints
+- 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)**: Built end-to-end with Cursor, Claude, and Vercel. Full game loop with movement, shooting, enemies, scoring, and boss battles, shipped in a weekend
+- 🐍 **[Awesome Python Scripts](https://github.com/brandonckhoo/Awesome-Python-Scripts)**: Fork of a curated Python automation scripts collection
 
 ## GitHub Activity
 
@@ -38,9 +38,9 @@
 
 ## What I'm Doing
 
-- **Building AI products at Amplitude** - Leading ecosystem and CDP, shipping LLM features with real metrics
-- **Writing about agentic AI** - Sharing what I learn building real agents at [agentgoose.substack.com](https://agentgoose.substack.com)
-- **Rapid prototyping** - Claude Code + Cursor + Vercel → working product in 24–72 hours; one new AI project per month, everything goes on the portfolio
+- **Building AI products at Amplitude**: Leading ecosystem and CDP, shipping LLM features with real metrics
+- **Writing about agentic AI**: Sharing what I learn building real agents at [agentgoose.substack.com](https://agentgoose.substack.com)
+- **Rapid prototyping**: Claude Code + Cursor + Vercel gets me from idea to working product in 24–72 hours. One new AI project per month, everything goes on the portfolio
 
 ## Latest Blog Posts
 
@@ -65,8 +65,8 @@
 
 ### Recognition & Press
 
-- 🗞️ **Forbes, TechCrunch, Engadget, Fox Business** — Covered the launch of **Uber Moments**: imagine booking a chocolate-making class or a rooftop yoga session directly inside the UberEats app. Think Airbnb Experiences, but we built it first. First experience marketplace on a food delivery platform — $109 avg ticket vs. $22 platform average
-- 🎤 **Featured speaker at Twilio SIGNAL 2025** — Co-presented with Paige Wagner Slaboski from The RealReal on personalization at scale, powered by Twilio Segment + Amplitude. Amplitude data revealed that top customers treat TheRealReal like a social feed — browsing long sessions, tracking items via Obsessions lists. That insight shipped into Obsessions carousels, sort-by-Obsessions, and list sharing, driving a meaningful lift in GMV. Also showed how behavioral data surfaced Reconsign flows: flywheel customers revisiting past orders to consign again, making it easier for high-value users to stay engaged on both sides of the marketplace. Presented to 200+ attendees.
+- 🗞️ **Forbes, TechCrunch, Engadget, Fox Business**: Covered the launch of **Uber Moments**. Imagine booking a chocolate-making class or a rooftop yoga session directly inside the UberEats app. Think Airbnb Experiences, but we built it first. First experience marketplace on a food delivery platform, $109 avg ticket vs. $22 platform average
+- 🎤 **Featured speaker at Twilio SIGNAL 2025**: Co-presented with Paige Wagner Slaboski from The RealReal on personalization at scale, powered by Twilio Segment + Amplitude. Amplitude data revealed that top customers treat TheRealReal like a social feed, browsing long sessions and tracking items via Obsessions lists. That insight shipped into Obsessions carousels, sort-by-Obsessions, and list sharing, driving a meaningful lift in GMV. Also showed how behavioral data surfaced Reconsign flows: flywheel customers revisiting past orders to consign again, making it easier for high-value users to stay engaged on both sides of the marketplace. Presented to 200+ attendees.
 - 🎓 **Golden Key Honor Award** (top 15% at QUT)
 
 ### Philosophy
@@ -76,8 +76,8 @@
 ### Random Facts
 
 - 🐾 Dad hooman to Simba, a border collie from Team Reeves Ranch. He has such a high EQ and loves herding me
-- 🎾 Tennis fanatic — life goal is to attend all 4 Grand Slams — 0 down, 4 to go
+- 🎾 Tennis fanatic. Life goal is to attend all 4 Grand Slams. 0 down, 4 to go
 - 🎮 Dota 2 noob. Pos 4/5 support, favourite hero is Shadow Shaman. Please be kind in chat
-- 🃏 Collecting Pokémon cards — the hobby that started as nostalgia and became a problem
+- 🃏 Collecting Pokémon cards. The hobby that started as nostalgia and became a problem
 
 ---
