@@ -63,6 +63,20 @@
 
 ---
 
+### My Bets on Where Tech Is Going
+
+**1. The "user" in UX is becoming an agent.**
+We are moving to a world where people interact with your product primarily through ChatGPT, Claude, or another AI agent. The products that win will be the easiest for agents to use, not the best-looking dashboards.
+My 60-year-old mother uses ChatGPT instead of Google, Booking.com, and half a dozen other apps. Perplexity Comet takes it further — a full browser where the AI navigates tabs, fills forms, and completes the booking without a human touching the screen.
+
+**2. Per-seat SaaS pricing is dead.**
+When one person with agents does the work of five, per-seat pricing breaks. The new model is usage or outcome-based.
+Klarna replaced 700 customer service agents with AI in 2024. Those 700 Zendesk and Intercom seats just evaporated. Gartner predicts 40% of enterprise SaaS spend shifts to outcome-based pricing by 2030.
+
+**3. Data quality becomes the AI agent's competitive edge.**
+AI commoditises software features. What it cannot replicate is proprietary data. The best agents will be the ones with access to the richest, cleanest structured and unstructured data. The data gap becomes the intelligence gap.
+An agent plugged into clean CRM history, product usage data, and past support tickets will outperform one working from fragmented, poorly labelled data every time. The companies that invest in data infrastructure now are building the foundation their agents will run on. [Bain and Company agree.](https://www.bain.com/insights/why-ai-stumbles-without-a-solid-data-strategy/)
+
 ### Recognition & Press
 
 - 🗞️ **Forbes, TechCrunch, Engadget, Fox Business**: Covered the launch of **Uber Moments**. Imagine booking a chocolate-making class or a rooftop yoga session directly inside the UberEats app. Think Airbnb Experiences, but we built it first. First experience marketplace on a food delivery platform, $109 avg ticket vs. $22 platform average
@@ -73,17 +87,6 @@
 
 > "Speed is strategy. Ship the smallest version that generates real behavior, measure it, and iterate. You're optimizing for learning velocity, not feature velocity."
 
-
-## My Bets on Where Tech Is Going
-
-**1. The "user" in UX is becoming an agent.**
-My 60-year-old mother uses ChatGPT instead of Google, Booking.com, and half a dozen other apps. Perplexity Comet takes it further — it is a full browser where the AI agent navigates tabs, fills in forms, and completes the booking without a human touching the screen. Most people will interact with your product through an AI agent, not your UI. The products that win will be the easiest for agents to use.
-
-**2. Per-seat SaaS pricing is dead.**
-Klarna replaced 700 customer service agents with AI in 2024. Those 700 Zendesk and Intercom seats just evaporated. When one person with agents does the work of five, per-seat pricing breaks. Gartner predicts 40% of enterprise SaaS spend shifts to usage or outcome-based pricing by 2030. The companies that survive will be the best tools for agents, not the best-looking dashboards.
-
-**3. Human oversight becomes the next UX frontier.**
-Claude Code shows you every file change and tool call before it executes. You approve or deny. The AI does the work, the human stays accountable. As agents do more, the most important product challenge becomes: how do you design interfaces where humans can quickly see what an agent did and why. Oversight UX is the next decade of product design.
 
 ### Random Facts
 
