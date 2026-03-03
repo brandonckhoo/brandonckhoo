@@ -61,14 +61,11 @@
 
 ---
 
-### Recognition
+### Recognition & Press
 
-- Featured speaker at **Twilio SIGNAL 2025** with TheRealReal, presenting to 200+ attendees on scaling personalization
-- **Golden Key Honor Award** (top 15% at QUT)
-
-### Media
-
-- 🗞️ **Forbes, TechCrunch, Engadget, Fox Business** — Uber Moments launch: first experience marketplace on UberEats, $109 avg ticket vs. $22 platform average
+- 🗞️ **Forbes, TechCrunch, Engadget, Fox Business** — Covered the launch of **Uber Moments**: imagine booking a chocolate-making class or a rooftop yoga session directly inside the UberEats app. Think Airbnb Experiences, but we built it first. First experience marketplace on a food delivery platform — $109 avg ticket vs. $22 platform average
+- 🎤 Featured speaker at **Twilio SIGNAL 2025** with TheRealReal — presented to 200+ on scaling personalisation at enterprise
+- 🎓 **Golden Key Honor Award** (top 15% at QUT)
 
 ### Philosophy
 
