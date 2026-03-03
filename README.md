@@ -20,12 +20,12 @@
 ## Current Projects
 
 - 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)** - RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
-- 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)** - Built end-to-end with Cursor + Claude + Vercel. Full game loop: movement, shooting, enemies, scoring, boss battles — shipped in a weekend
 - 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)** - Android checklist app built around the "do the hardest task first" productivity method
 
 ### Legacy Work
 
 - 🎯 **[Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)** - End-to-end account-based workflow: ICP scoring → buying committee discovery → coordinated multi-persona messaging with human review checkpoints
+- 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)** - Built end-to-end with Cursor + Claude + Vercel. Full game loop: movement, shooting, enemies, scoring, boss battles — shipped in a weekend
 - 🐍 **[Awesome Python Scripts](https://github.com/brandonckhoo/Awesome-Python-Scripts)** - Fork: curated Python automation scripts
 
 ## GitHub Activity
