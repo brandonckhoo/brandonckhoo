@@ -77,5 +77,6 @@
 - 🐾 Dad hooman to Simba, a border collie from Team Reeves Ranch. He has such a high EQ and loves herding me
 - 🎾 Tennis fanatic — life goal is to attend all 4 Grand Slams — 0 down, 4 to go
 - 🎮 Dota 2 noob. Pos 4/5 support, favourite hero is Shadow Shaman. Please be kind in chat
+- 🃏 Collecting Pokémon cards — the hobby that started as nostalgia and became a problem
 
 ---
