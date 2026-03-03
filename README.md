@@ -76,7 +76,8 @@
 
 ### Random Facts
 
-- Own a border collie (Simba) from Team Reeves Ranch. DM me for recommendations
-- Tennis enthusiast, can play everyday if time permits
+- 🐾 Dad hooman to Simba, a border collie from Team Reeves Ranch. He's smarter than most PMs I've worked with
+- 🎾 Tennis fanatic — life goal is to attend all 4 Grand Slams (Australian Open checked off)
+- 🎮 Dota 2 noob. Pos 4/5 support, favourite hero is Shadow Shaman. Please be kind in chat
 
 ---
