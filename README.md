@@ -1,6 +1,6 @@
 # Hi, I'm Brandon 👋
 
-📍 **Brisbane → San Francisco** | 🤖 **AI Product Manager** | ✍️ **Agent Goose founder**
+📍 **Brisbane ↔ San Francisco** | 🤖 **AI Product Manager** | ✍️ **Agent Goose founder**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -36,8 +36,7 @@
 
 - **Building AI products at Amplitude** - Leading ecosystem and CDP, shipping LLM features with real metrics
 - **Writing about agentic AI** - Sharing what I learn building real agents at [agentgoose.substack.com](https://agentgoose.substack.com)
-- **Rapid prototyping** - Claude Code + Cursor + Vercel → working product in 24–72 hours
-- **Shipping side projects** - One new AI project per month; everything goes on the portfolio
+- **Rapid prototyping** - Claude Code + Cursor + Vercel → working product in 24–72 hours; one new AI project per month, everything goes on the portfolio
 
 ## Latest Blog Posts
 
@@ -74,11 +73,9 @@
 
 > "Speed is strategy. Ship the smallest version that generates real behavior, measure it, and iterate. You're optimizing for learning velocity, not feature velocity."
 
-<details>
-<summary>Random Facts</summary>
+### Random Facts
 
 - Own a border collie (Simba) from Team Reeves Ranch. DM me for recommendations
-
-</details>
+- Tennis enthusiast, can play everyday if time permits
 
 ---
