@@ -43,6 +43,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Designing a Production-Grade Internal AI Agent](https://agentgoose.substack.com/p/designing-a-production-grade-internal)
+- [Maximize the Power of Your Data Ecosystem](https://amplitude.com/blog/data-ecosystem)
+- [Is Your Data Actually Reliable?](https://amplitude.com/blog/data-reliability)
+- [First-Party Data: What It Is, Importance, & How to Gather It](https://amplitude.com/blog/first-party-data)
+- [32 Product Management Interview Questions & How to Answer](https://amplitude.com/blog/product-management-interview-questions)
 <!-- BLOG-POST-LIST:END -->
 
 > 📬 More at [agentgoose.substack.com](https://agentgoose.substack.com)
@@ -59,18 +63,12 @@
 
 ### Recognition
 
-- Joined **Amplitude pre-IPO** (Series E); company went public at **$7B valuation**
-- Scaled CDP from **$6M → $21M ARR** (3.5× revenue growth)
-- Grew partner ecosystem from **40 → 130+ integrations**
-- Generated **$25M+ revenue impact** across shipped products
-- **17% activation lift** from unified User Profile; **50% reduction** in session review time
+- Featured speaker at **Twilio SIGNAL 2025** with TheRealReal, presenting to 200+ attendees on scaling personalization
+- **Golden Key Honor Award** (top 15% at QUT)
 
 ### Media
 
-- 🗞️ **[Forbes](https://forbes.com)** — Uber Moments launch: first experience marketplace on UberEats
-- 🗞️ **[TechCrunch](https://techcrunch.com)** — Uber Moments: $109 avg ticket vs. $22 platform average
-- 🗞️ **[Engadget](https://engadget.com)** — Uber Moments coverage
-- 🗞️ **[Fox Business](https://foxbusiness.com)** — Uber Moments coverage
+- 🗞️ **Forbes, TechCrunch, Engadget, Fox Business** — Uber Moments launch: first experience marketplace on UberEats, $109 avg ticket vs. $22 platform average
 
 ### Philosophy
 
@@ -79,12 +77,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- Built a full game (movement, enemies, boss battles) in a weekend using Claude + Cursor
-- Use LLM-as-judge scoring to evaluate my own AI agents
-- Run Amplitude, Mixpanel, and session replay on everything I ship
-- Electrical Engineering + Finance degree — ended up in product anyway
-- Golden Key Honor Award (top 15% at QUT)
-- Based in Brisbane; working SF hours
+- Own a border collie (Simba) from Team Reeves Ranch. DM me for recommendations
 
 </details>
 
