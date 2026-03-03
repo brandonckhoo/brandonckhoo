@@ -13,7 +13,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
 
-> 10+ years in product. $6M → $21M ARR, 40 → 130+ integrations, AI that cut review time by 50%. Now I vibe code things I have no business building solo — and write about it.
+> 10+ years in product. $6M → $21M ARR, 40 → 130+ integrations, AI that cut review time by 50%. Now I vibe code, ship fast, and trust the process.
 
 🌐 **[brandonkhoo-portfolio.vercel.app](https://brandonkhoo-portfolio.vercel.app)** — AI case studies, side projects, and how I ship
 
