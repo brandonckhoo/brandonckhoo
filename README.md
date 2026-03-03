@@ -77,7 +77,7 @@
 ## My Bets on Where Tech Is Going
 
 **1. The "user" in UX is becoming an agent.**
-My 60-year-old mother uses ChatGPT instead of Google, Booking.com, and half a dozen other apps. OpenAI Operator takes it further — it opens a browser, fills in the form, and completes the booking without a human touching the screen. Most people will interact with your product through an AI agent, not your UI. The products that win will be the easiest for agents to use.
+My 60-year-old mother uses ChatGPT instead of Google, Booking.com, and half a dozen other apps. Perplexity Comet takes it further — it is a full browser where the AI agent navigates tabs, fills in forms, and completes the booking without a human touching the screen. Most people will interact with your product through an AI agent, not your UI. The products that win will be the easiest for agents to use.
 
 **2. Per-seat SaaS pricing is dead.**
 Klarna replaced 700 customer service agents with AI in 2024. Those 700 Zendesk and Intercom seats just evaporated. When one person with agents does the work of five, per-seat pricing breaks. Gartner predicts 40% of enterprise SaaS spend shifts to usage or outcome-based pricing by 2030. The companies that survive will be the best tools for agents, not the best-looking dashboards.
@@ -93,4 +93,5 @@ Claude Code shows you every file change and tool call before it executes. You ap
 - 🃏 Collecting Pokémon cards. The hobby that started as nostalgia and became a problem
 
 ---
+
 
