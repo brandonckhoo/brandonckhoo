@@ -65,17 +65,17 @@
 
 ### My Bets on Where Tech Is Going
 
-**1. The "user" in UX is becoming an agent.**
-We are entering a world where most people interact with your product through an AI agent, not your app directly. If your product only works when a human visits your website, you are already behind.
-Case in point, my 60-year-old mother already uses Perplexity Comet to search and compare flights instead of opening Expedia or Google Flights herself.
+1. **The "user" in UX is becoming an agent.**
+   We are entering a world where most people interact with your product through an AI agent, not your app directly. If your product only works when a human visits your website, you are already behind.
+   Case in point, my 60-year-old mother already uses Perplexity Comet to search and compare flights instead of opening Expedia or Google Flights herself.
 
-**2. Per-seat SaaS pricing is dead.**
-When one person with agents does the work of five, per-seat pricing breaks. The new model is usage or outcome-based.
-Klarna replaced 700 customer service agents with AI in 2024. Those 700 Zendesk and Intercom seats just evaporated. Gartner predicts 40% of enterprise SaaS spend shifts to outcome-based pricing by 2030.
+2. **Per-seat SaaS pricing is dead.**
+   When one person with agents does the work of five, per-seat pricing breaks. The new model is usage or outcome-based.
+   Klarna replaced 700 customer service agents with AI in 2024. Those 700 Zendesk and Intercom seats just evaporated. Gartner predicts 40% of enterprise SaaS spend shifts to outcome-based pricing by 2030.
 
-**3. Data quality becomes the AI agent's competitive edge.**
-AI commoditises software features. What it cannot replicate is proprietary data. The best agents will be the ones with access to the richest, cleanest structured and unstructured data. The data gap becomes the intelligence gap.
-An agent plugged into clean CRM history, product usage data, and past support tickets will outperform one working from fragmented, poorly labelled data every time. The companies that invest in data infrastructure now are building the foundation their agents will run on. [Bain and Company agree.](https://www.bain.com/insights/why-ai-stumbles-without-a-solid-data-strategy/)
+3. **Data quality becomes the AI agent's competitive edge.**
+   AI commoditises software features. What it cannot replicate is proprietary data. The best agents will be the ones with access to the richest, cleanest structured and unstructured data. The data gap becomes the intelligence gap.
+   An agent plugged into clean CRM history, product usage data, and past support tickets will outperform one working from fragmented, poorly labelled data every time. The companies that invest in data infrastructure now are building the foundation their agents will run on.
 
 ### Recognition & Press
 
