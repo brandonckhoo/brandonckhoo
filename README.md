@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+- 🦞 **OpenClaw** *(in progress)* - Building an open-source autonomous AI agent that runs locally and lives in your WhatsApp or Telegram. Think personal employee — except it manages a fleet of AI agents across Marketing, Product, and Eng and never asks for PTO
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)** - Writing about the future of agentic AI — what it means to build with agents, ship AI products, and work alongside AI day to day
 - 📞 **[Crevo Partners](https://www.crevopartners.com/)** - Helping businesses launch with AI voice agents — from scoping the right use case to deploying production-ready agents that handle real calls
 - 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)** - Open-source personal operating system for Claude Code. Built for PMs: full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), and a self-improving skill that extracts reusable knowledge from every session
