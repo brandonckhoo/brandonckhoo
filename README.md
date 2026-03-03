@@ -73,6 +73,18 @@
 
 > "Speed is strategy. Ship the smallest version that generates real behavior, measure it, and iterate. You're optimizing for learning velocity, not feature velocity."
 
+
+## My Bets on Where Tech Is Going
+
+**1. The "user" in UX is becoming an agent.**
+My 60-year-old mother uses ChatGPT instead of Google, Booking.com, and half a dozen other apps. When she asks it to find a hotel, it searches, compares, and will soon book without her ever touches a website. Most people will interact with your product through an AI agent, not your UI. The products that win will be the easiest for agents to use.
+
+**2. Per-seat SaaS pricing is dead.**
+Klarna replaced 700 customer service agents with AI in 2024. Those 700 Zendesk and Intercom seats just evaporated. When one person with agents does the work of five, per-seat pricing breaks. Gartner predicts 40% of enterprise SaaS spend shifts to usage or outcome-based pricing by 2030. The companies that survive will be the best tools for agents, not the best-looking dashboards.
+
+**3. Human oversight becomes the next UX frontier.**
+Claude Code shows you every file change and tool call before it executes. You approve or deny. The AI does the work, the human stays accountable. As agents do more, the most important product challenge becomes: how do you design interfaces where humans can quickly see what an agent did and why. Oversight UX is the next decade of product design.
+
 ### Random Facts
 
 - 🐾 Dad hooman to Simba, a border collie from Team Reeves Ranch. He has such a high EQ and loves herding me
