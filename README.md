@@ -77,7 +77,7 @@
 - 🎤 **Featured speaker at Twilio SIGNAL 2025**: Co-presented with Paige Wagner Slaboski from The RealReal on personalization at scale, powered by Twilio Segment + Amplitude. Amplitude data revealed that top customers treat TheRealReal like a social feed, browsing long sessions and tracking items via Obsessions lists. That insight shipped into Obsessions carousels, sort-by-Obsessions, and list sharing, driving a meaningful lift in GMV. Also showed how behavioral data surfaced Reconsign flows: flywheel customers revisiting past orders to consign again, making it easier for high-value users to stay engaged on both sides of the marketplace. Presented to 200+ attendees.
 - 🎓 **Golden Key Honor Award** (top 15% at QUT)
 
-### My Bets on Where Tech Is Going
+### Future Predictions on Where Tech Is Going in 2026 and Beyond
 
 1. **The "user" in UX is becoming an agent.**
    We are entering a world where most people interact with your product through an AI agent, not your app directly. If your product only works when a human visits your website, you are already behind.
