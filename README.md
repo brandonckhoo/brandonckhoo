@@ -42,7 +42,7 @@
 - **Writing about agentic AI**: Sharing what I learn building real agents at [agentgoose.substack.com](https://agentgoose.substack.com)
 - **Rapid prototyping**: Claude Code + Cursor + Vercel gets me from idea to working product in 24–72 hours. One new AI project per month, everything goes on the portfolio
 
-## Past AI PM Experience
+## Relevant AI PM Experience
 
 - 🎯 **Amplitude Recommendations.** Real time ranking engine that clusters users by behavioral signals, ranks items by likelihood to drive a target outcome, retrains hourly, and serves results via the Profile API in under a second. Worked with **HBO** to enrich content metadata with release date, category, and SKU so the model could surface new releases over old content. Result: **+20% engagement, +15% content consumption**. Lesson: recommendation quality is usually a data problem upstream, not a model problem.
 
