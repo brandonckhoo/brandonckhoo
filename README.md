@@ -48,6 +48,8 @@
 
 - 🔮 **Amplitude Predictions.** Deep learning model (Nova AutoML) that scores every user on churn or conversion propensity within 7 to 90 days, refreshed daily or hourly. **Chick-fil-A** used it to get ahead of lapsing customers, suppressing promos for low risk users and triggering retention for the high risk segment before anyone churned. Lesson: shifts teams from reactive to proactive retention.
 
+- 🎬 **Amplitude Session Replay AI.** Over 50% of new Replay users never opened the product. Those who did had to scrub through 10 to 15 minute videos to find anything useful. We shipped an LLM powered Summary Card grounded on structured event data (not raw video) to surface key actions and friction moments automatically. Built a labeled eval set from real customer replays to track groundedness, signal capture, and noise. Every prompt change ran against it before shipping. Result: **50% drop in replay review time, 17% lift in first time user activation**. Lesson: grounding beats clever prompting, and AI alone does not fix activation. The workflow change mattered just as much as the model.
+
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
