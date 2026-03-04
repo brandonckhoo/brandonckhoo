@@ -34,7 +34,8 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/brandonckhoo)
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandonckhoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonckhoo&layout=compact&hide_border=true&theme=default)
 
 ## What I'm Doing
 
