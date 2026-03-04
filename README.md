@@ -38,9 +38,31 @@
 
 ## What I'm Doing
 
-- **Building AI products at Amplitude**: Leading ecosystem and CDP, shipping LLM features with real metrics
+- **Building ML products at Amplitude**: PM for Recommendations and Predictions — two of Amplitude's core AI features
 - **Writing about agentic AI**: Sharing what I learn building real agents at [agentgoose.substack.com](https://agentgoose.substack.com)
 - **Rapid prototyping**: Claude Code + Cursor + Vercel gets me from idea to working product in 24–72 hours. One new AI project per month, everything goes on the portfolio
+
+## Past AI PM Experience
+
+### 🎯 Amplitude Recommendations · *Product Manager*
+
+Real time ranking engine that answers: what should we show this user next? Clusters users by behavioral signals, ranks items (content IDs, SKUs, feature names) by likelihood to drive a target outcome, retrains hourly, and serves results via the Profile API in under a second.
+
+**HBO** was surfacing old content instead of new releases. The model lacked signal on recency, so we enriched content metadata with release date, category, and SKU. Result: **+20% engagement, +15% content consumption**.
+
+Lesson: recommendation quality is usually a data problem upstream, not a model problem.
+
+---
+
+### 🔮 Amplitude Predictions · *Product Manager*
+
+Deep learning model (Nova AutoML) that scores every user on the probability of taking a target action within 7 to 90 days. Scores refresh daily or hourly and teams sync the resulting cohorts to email, push, or in product messaging.
+
+**Chick-fil-A** used Predictions to get ahead of churn. They scored their full customer base on lapse risk, suppressed promos for low risk users, and triggered retention campaigns for the high risk segment before anyone lapsed.
+
+Lesson: shifts teams from reactive to proactive retention.
+
+---
 
 ## Latest Blog Posts
 
@@ -63,6 +85,12 @@
 
 ---
 
+### Recognition & Press
+
+- 🗞️ **Forbes, TechCrunch, Engadget, Fox Business**: Covered the launch of **Uber Moments**. Imagine booking a chocolate-making class or a rooftop yoga session directly inside the UberEats app. Think Airbnb Experiences, but we built it first. First experience marketplace on a food delivery platform, $109 avg ticket vs. $22 platform average
+- 🎤 **Featured speaker at Twilio SIGNAL 2025**: Co-presented with Paige Wagner Slaboski from The RealReal on personalization at scale, powered by Twilio Segment + Amplitude. Amplitude data revealed that top customers treat TheRealReal like a social feed, browsing long sessions and tracking items via Obsessions lists. That insight shipped into Obsessions carousels, sort-by-Obsessions, and list sharing, driving a meaningful lift in GMV. Also showed how behavioral data surfaced Reconsign flows: flywheel customers revisiting past orders to consign again, making it easier for high-value users to stay engaged on both sides of the marketplace. Presented to 200+ attendees.
+- 🎓 **Golden Key Honor Award** (top 15% at QUT)
+
 ### My Bets on Where Tech Is Going
 
 1. **The "user" in UX is becoming an agent.**
@@ -77,12 +105,6 @@
    AI commoditises software features. What it cannot replicate is proprietary data. The best agents will be the ones with access to the richest, cleanest structured and unstructured data. The data gap becomes the intelligence gap.
    An agent plugged into clean CRM history, product usage data, and past support tickets will outperform one working from fragmented, poorly labelled data every time. The companies that invest in data infrastructure now are building the foundation their agents will run on.
 
-### Recognition & Press
-
-- 🗞️ **Forbes, TechCrunch, Engadget, Fox Business**: Covered the launch of **Uber Moments**. Imagine booking a chocolate-making class or a rooftop yoga session directly inside the UberEats app. Think Airbnb Experiences, but we built it first. First experience marketplace on a food delivery platform, $109 avg ticket vs. $22 platform average
-- 🎤 **Featured speaker at Twilio SIGNAL 2025**: Co-presented with Paige Wagner Slaboski from The RealReal on personalization at scale, powered by Twilio Segment + Amplitude. Amplitude data revealed that top customers treat TheRealReal like a social feed, browsing long sessions and tracking items via Obsessions lists. That insight shipped into Obsessions carousels, sort-by-Obsessions, and list sharing, driving a meaningful lift in GMV. Also showed how behavioral data surfaced Reconsign flows: flywheel customers revisiting past orders to consign again, making it easier for high-value users to stay engaged on both sides of the marketplace. Presented to 200+ attendees.
-- 🎓 **Golden Key Honor Award** (top 15% at QUT)
-
 ### Philosophy
 
 > "Speed is strategy. Ship the smallest version that generates real behavior, measure it, and iterate. You're optimizing for learning velocity, not feature velocity."
@@ -96,6 +118,3 @@
 - 🃏 Collecting Pokémon cards. The hobby that started as nostalgia and became a problem
 
 ---
-
-
-
