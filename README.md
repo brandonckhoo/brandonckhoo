@@ -44,25 +44,9 @@
 
 ## Past AI PM Experience
 
-### 🎯 Amplitude Recommendations · *Product Manager*
+- 🎯 **Amplitude Recommendations.** Real time ranking engine that clusters users by behavioral signals, ranks items by likelihood to drive a target outcome, retrains hourly, and serves results via the Profile API in under a second. Worked with **HBO** to enrich content metadata with release date, category, and SKU so the model could surface new releases over old content. Result: **+20% engagement, +15% content consumption**. Lesson: recommendation quality is usually a data problem upstream, not a model problem.
 
-Real time ranking engine that answers: what should we show this user next? Clusters users by behavioral signals, ranks items (content IDs, SKUs, feature names) by likelihood to drive a target outcome, retrains hourly, and serves results via the Profile API in under a second.
-
-**HBO** was surfacing old content instead of new releases. The model lacked signal on recency, so we enriched content metadata with release date, category, and SKU. Result: **+20% engagement, +15% content consumption**.
-
-Lesson: recommendation quality is usually a data problem upstream, not a model problem.
-
----
-
-### 🔮 Amplitude Predictions · *Product Manager*
-
-Deep learning model (Nova AutoML) that scores every user on the probability of taking a target action within 7 to 90 days. Scores refresh daily or hourly and teams sync the resulting cohorts to email, push, or in product messaging.
-
-**Chick-fil-A** used Predictions to get ahead of churn. They scored their full customer base on lapse risk, suppressed promos for low risk users, and triggered retention campaigns for the high risk segment before anyone lapsed.
-
-Lesson: shifts teams from reactive to proactive retention.
-
----
+- 🔮 **Amplitude Predictions.** Deep learning model (Nova AutoML) that scores every user on churn or conversion propensity within 7 to 90 days, refreshed daily or hourly. **Chick-fil-A** used it to get ahead of lapsing customers, suppressing promos for low risk users and triggering retention for the high risk segment before anyone churned. Lesson: shifts teams from reactive to proactive retention.
 
 ## Latest Blog Posts
 
