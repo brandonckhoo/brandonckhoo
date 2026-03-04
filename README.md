@@ -32,6 +32,7 @@
 - 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)**: Built end-to-end with Cursor, Claude, and Vercel. Full game loop with movement, shooting, enemies, scoring, and boss battles, shipped in a weekend
 - 🐍 **[Awesome Python Scripts](https://github.com/brandonckhoo/Awesome-Python-Scripts)**: Fork of a curated Python automation scripts collection
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/brandonckhoo)
 
 ## What I'm Doing
 
