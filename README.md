@@ -26,8 +26,8 @@
 - 🧪 **[growth-experiment](https://github.com/brandonckhoo/growth-experiment)**: A Claude Code skill for Growth PMs. Give it a metric drop or funnel problem — it generates top 3 ranked experiment ideas using Akash Gupta's 10×10 behavioral trigger matrix, writes a full Atlassian-structured experiment brief, calculates sample size and runtime, and outputs a copy-paste ready Amplitude Experiment setup block
 ### Legacy Work
 
-- 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)**: RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
 - 🗺️ **[Travel Log](https://github.com/brandonckhoo/travel-log)**: Personal travel tracking app built with Next.js and Supabase. Deployed multiple AI agents via [Pencil](https://www.pencil.dev/) to design the first iteration. Globe and satellite map views, city cards with auto-fetched photos, trip type tagging, and live stats across countries, cities, and continents
+- 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)**: RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
 - 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)**: Android checklist app built around the Eisenhower Matrix. Prioritise by urgency and importance, tackle the hardest task first
 - 🎯 **[Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: End-to-end account-based workflow covering ICP scoring, buying committee discovery, and coordinated multi-persona messaging with human review checkpoints
 - 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)**: Built end-to-end with Cursor, Claude, and Vercel. Full game loop with movement, shooting, enemies, scoring, and boss battles, shipped in a weekend
@@ -105,4 +105,5 @@
 - 🃏 Collecting Pokémon cards. The hobby that started as nostalgia and became a problem
 
 ---
+
 
