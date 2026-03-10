@@ -19,7 +19,7 @@
 
 ## Current Projects
 
-- 🦞 **OpenClaw** *(upcoming)*: Open-source autonomous AI agent, runs locally. The plan is to orchestrate a fleet of specialised agents across Marketing, Product, and Eng via Telegram.
+- 🦞 **OpenClaw**: Built a personal AI chief-of-staff system with Mirana as the central orchestrator. Connected Google Calendar, Gmail, Discord, and Google Sheets into a single gateway with a local Mission Control dashboard. Structured executive layer with CPO, CTO, CMO, and CRO agents reporting into Mirana, reusable skills for newsletters and ops, and automated weekly property reporting across realestate.com.au, Google Sheets, and Discord.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 - 📞 **[Crevo Partners](https://www.crevopartners.com/)**: Helping businesses launch with AI voice agents, from scoping the right use case to deploying production-ready agents that handle real calls
 - 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
