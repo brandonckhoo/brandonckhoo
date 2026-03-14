@@ -15,10 +15,9 @@
 
 > 10+ years across consulting, operations, and product. Scaled platforms from $6M → $21M ARR, grew ecosystems from 40 → 130+ integrations, and shipped AI features that cut review time by 50%. Now I vibe code AI agents, ship fast, and trust the process.
 
-🌐 **[brandonkhoo-portfolio.vercel.app](https://brandonkhoo-portfolio.vercel.app)** — AI case studies, side projects, and how I ship
-
 ## Current Projects
 
+- 🌐 **[brandonkhoo-portfolio.vercel.app](https://brandonkhoo-portfolio.vercel.app)**: AI case studies, side projects, and how I ship
 - 🦞 **OpenClaw**: Built a personal AI chief-of-staff system with Mirana as the central orchestrator. Connected Google Calendar, Gmail, Discord, and Google Sheets into a single gateway with a local Mission Control dashboard. Structured executive layer with CPO, CTO, CMO, and CRO agents reporting into Mirana, reusable skills for newsletters and ops, and automated weekly property reporting across realestate.com.au, Google Sheets, and Discord.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 - 📞 **[Crevo Partners](https://www.crevopartners.com/)**: Helping businesses launch with AI voice agents, from scoping the right use case to deploying production-ready agents that handle real calls
