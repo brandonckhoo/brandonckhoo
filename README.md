@@ -83,13 +83,12 @@
 1. **Agents are becoming the primary users of software.**
    We've crossed from agents that assist humans to agents that operate end-to-end, with sandboxed compute, persistent memory, file systems, and direct API access. Paul Graham said "make something people want." The new imperative is make something agents want. If your product requires a human to log in, click through a UI, or see an ad, agents will route around you. The platforms that are API-first and MCP-accessible will capture the next wave of enterprise workloads. The ones that aren't will slowly become invisible.
 
-2. **Per-seat SaaS pricing is dead.**
-   When one person with agents does the work of five, per-seat pricing breaks. The new model is usage or outcome-based.
-   Klarna replaced 700 customer service agents with AI in 2024. Those 700 Zendesk and Intercom seats just evaporated. Gartner predicts 40% of enterprise SaaS spend shifts to outcome-based pricing by 2030.
-
-3. **Data quality becomes the AI agent's competitive edge.**
+2. **Data quality becomes the AI agent's competitive edge.**
    AI commoditises software features. What it cannot replicate is proprietary data. The best agents will be the ones with access to the richest, cleanest structured and unstructured data. The data gap becomes the intelligence gap.
    An agent plugged into clean CRM history, product usage data, and past support tickets will outperform one working from fragmented, poorly labelled data every time. The companies that invest in data infrastructure now are building the foundation their agents will run on.
+
+3. **Outcome-based pricing replaces the seat.**
+   Intercom already made the move, charging per resolved conversation instead of per user license. When one person running agents does the work of five, a seat is no longer a meaningful unit of value. Klarna replaced 700 support agents and those Zendesk seats disappeared overnight. The SaaS companies that figure out how to price for outcomes and not headcount will win the next decade of B2B. The ones that don't will watch their seat count shrink as their customers scale with agents.
 
 ### Philosophy
 
