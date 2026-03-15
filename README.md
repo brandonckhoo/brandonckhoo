@@ -81,7 +81,7 @@
 ### Future Predictions on Where Tech Is Going in 2026
 
 1. **Agents are becoming the primary users of software.**
-   We've crossed from agents that assist humans to agents that operate end-to-end — with sandboxed compute, persistent memory, file systems, and direct API access. Paul Graham said "make something people want." The new imperative is make something agents want. If your product requires a human to log in, click through a UI, or see an ad, agents will route around you. The platforms that are API-first and MCP-accessible will capture the next wave of enterprise workloads — and the ones that aren't will slowly become invisible.
+   We've crossed from agents that assist humans to agents that operate end-to-end, with sandboxed compute, persistent memory, file systems, and direct API access. Paul Graham said "make something people want." The new imperative is make something agents want. If your product requires a human to log in, click through a UI, or see an ad, agents will route around you. The platforms that are API-first and MCP-accessible will capture the next wave of enterprise workloads. The ones that aren't will slowly become invisible.
 
 2. **Per-seat SaaS pricing is dead.**
    When one person with agents does the work of five, per-seat pricing breaks. The new model is usage or outcome-based.
