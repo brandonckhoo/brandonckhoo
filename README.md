@@ -2,16 +2,36 @@
 
 📍 **Brisbane ↔ San Francisco** | 🤖 **AI Product Manager** | ✍️ **Agent Goose founder**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**AI & Prototyping:**
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF6B6B?style=flat-square&logoColor=white)
+![Magic Patterns](https://img.shields.io/badge/-Magic%20Patterns-7C3AED?style=flat-square&logoColor=white)
+![Perplexity](https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+
+**Design:**
+![Pencil](https://img.shields.io/badge/-Pencil-000000?style=flat-square&logoColor=white)
+
+**Analytics & Experimentation:**
+![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/-Mixpanel-7856FF?style=flat-square&logoColor=white)
+
+**Data & Deployment:**
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
+
+**PM & Delivery:**
+![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Productboard](https://img.shields.io/badge/-Productboard-FF6154?style=flat-square&logoColor=white)
+
+**Voice & Lifecycle:**
+![Retell AI](https://img.shields.io/badge/-Retell%20AI-000000?style=flat-square&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+![Braze](https://img.shields.io/badge/-Braze-FF6154?style=flat-square&logoColor=white)
+![Intercom](https://img.shields.io/badge/-Intercom-0057FF?style=flat-square&logo=intercom&logoColor=white)
 
 > 10+ years across consulting, operations, and product. Scaled platforms from $6M → $21M ARR, grew ecosystems from 40 → 130+ integrations, and shipped AI features that cut review time by 50%. Now I vibe code AI agents, ship fast, and trust the process.
 
