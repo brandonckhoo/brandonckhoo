@@ -64,7 +64,7 @@
 ![GrowthBook](https://img.shields.io/badge/-GrowthBook-0C4B33?style=flat-square&logoColor=white)
 
 **CRM & Growth Systems**<br>
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-0070D2?style=flat-square&logo=salesforce&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![GHL](https://img.shields.io/badge/-GHL-000000?style=flat-square&logoColor=white)
 ![Gong](https://img.shields.io/badge/-Gong-6C63FF?style=flat-square&logoColor=white)
@@ -72,7 +72,7 @@
 **Reliability & Observability**<br>
 ![DataDog](https://img.shields.io/badge/-DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Arize](https://img.shields.io/badge/-Arize-000000?style=flat-square&logoColor=white)
-![LangSmith](https://img.shields.io/badge/-LangSmith-000000?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-000000?style=flat-square&logo=langchain&logoColor=white)
 
 **Voice Agents**<br>
 ![Retell AI](https://img.shields.io/badge/-Retell%20AI-000000?style=flat-square&logoColor=white)
