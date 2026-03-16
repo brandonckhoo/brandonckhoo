@@ -23,7 +23,7 @@
 - 🏗️ **[Crevo Partners](https://www.crevopartners.com/)**: AI marketing agency for local contractors — we build high-converting websites and digital presence for tradies, fast
   - 🌿 [Landscaping](https://jozzycreative.crevopartners.com) — SEO-optimised site for a local landscaping business
   - 🔧 [Plumbing](https://capplumbing.au/) — Clean, conversion-focused site for a plumbing company
-  - 💧 [Pressure Washing](https://lovable.dev/projects/7276b498-18e4-4d9c-b645-bcd108e750a5) — Landing page for a powerwashing business
+  - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/) — Landing page for a powerwashing business
 - 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
 ### Legacy Work
 
