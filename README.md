@@ -18,9 +18,9 @@
 ## Current Projects
 
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets — with automated reporting and a local Mission Control dashboard.
-- 🌐 **[brandonkhoo-portfolio.vercel.app](https://brandonkhoo-portfolio.vercel.app)**: AI case studies, side projects, and how I ship
+- 🌐 **[Portfolio](https://brandonkhoo-portfolio.vercel.app)**: A showcase of AI case studies, side projects, and my approach to building and shipping products fast. From idea to deployed in 24 to 72 hours using Claude Code, Cursor, and Vercel.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
-- 🏗️ **[Crevo Partners](https://www.crevopartners.com/)**: AI marketing agency for local contractors. We build high-converting websites and digital presence for tradies, fast
+- 🏗️ **[Crevo Partners](https://www.crevopartners.com/)**: AI marketing agency for local contractors. We build high-converting websites and digital presence so tradies spend less time chasing leads and more time on the tools.
   - 🌿 [Landscaping](https://jozzycreative.crevopartners.com): SEO-optimised site for a local landscaping business
   - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
   - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
