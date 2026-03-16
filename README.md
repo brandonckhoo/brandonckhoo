@@ -20,10 +20,10 @@
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets — with automated reporting and a local Mission Control dashboard.
 - 🌐 **[brandonkhoo-portfolio.vercel.app](https://brandonkhoo-portfolio.vercel.app)**: AI case studies, side projects, and how I ship
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
-- 🏗️ **[Crevo Partners](https://www.crevopartners.com/)**: AI marketing agency for local contractors — we build high-converting websites and digital presence for tradies, fast
-  - 🌿 [Landscaping](https://jozzycreative.crevopartners.com) — SEO-optimised site for a local landscaping business
-  - 🔧 [Plumbing](https://capplumbing.au/) — Clean, conversion-focused site for a plumbing company
-  - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/) — Landing page for a powerwashing business
+- 🏗️ **[Crevo Partners](https://www.crevopartners.com/)**: AI marketing agency for local contractors. We build high-converting websites and digital presence for tradies, fast
+  - 🌿 [Landscaping](https://jozzycreative.crevopartners.com): SEO-optimised site for a local landscaping business
+  - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
+  - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
 - 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
 ### Legacy Work
 
