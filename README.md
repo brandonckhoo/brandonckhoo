@@ -50,30 +50,57 @@
 ![Lovable](https://img.shields.io/badge/-Lovable-FF6B6B?style=flat-square&logoColor=white)
 ![Magic Patterns](https://img.shields.io/badge/-Magic%20Patterns-7C3AED?style=flat-square&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+![Manus](https://img.shields.io/badge/-Manus-000000?style=flat-square&logoColor=white)
+![Wispr](https://img.shields.io/badge/-Wispr-000000?style=flat-square&logoColor=white)
 
-**Design**
+**Design & Collaboration**
 ![Pencil](https://img.shields.io/badge/-Pencil-000000?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
+![Loom](https://img.shields.io/badge/-Loom-625DF5?style=flat-square&logo=loom&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![GAMMA](https://img.shields.io/badge/-GAMMA-000000?style=flat-square&logoColor=white)
 
 **Analytics & Experimentation**
 ![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/-Mixpanel-7856FF?style=flat-square&logoColor=white)
 
-**Data & Deployment**
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**PM & Delivery**
-![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+**Delivery & Roadmapping**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Productboard](https://img.shields.io/badge/-Productboard-FF6154?style=flat-square&logoColor=white)
+![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
 
-**Voice & Lifecycle**
-![Retell AI](https://img.shields.io/badge/-Retell%20AI-000000?style=flat-square&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+**CRM & Growth Systems**
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![GHL](https://img.shields.io/badge/-GHL-000000?style=flat-square&logoColor=white)
+![Gong](https://img.shields.io/badge/-Gong-6C63FF?style=flat-square&logoColor=white)
+
+**Lifecycle & Support**
 ![Braze](https://img.shields.io/badge/-Braze-FF6154?style=flat-square&logoColor=white)
 ![Intercom](https://img.shields.io/badge/-Intercom-0057FF?style=flat-square&logo=intercom&logoColor=white)
+![Userflow](https://img.shields.io/badge/-Userflow-000000?style=flat-square&logoColor=white)
+![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
+
+**Reliability & Observability**
+![DataDog](https://img.shields.io/badge/-DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Arize](https://img.shields.io/badge/-Arize-000000?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-000000?style=flat-square&logoColor=white)
+
+**Data & Storage**
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logoColor=white)
+
+**Voice Agents**
+![Retell AI](https://img.shields.io/badge/-Retell%20AI-000000?style=flat-square&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+
+**Deployment**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## Latest Blog Posts
 
