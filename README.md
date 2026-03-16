@@ -2,36 +2,7 @@
 
 📍 **Brisbane ↔ San Francisco** | 🤖 **AI Product Manager** | ✍️ **Agent Goose founder**
 
-**AI & Prototyping:**
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Lovable](https://img.shields.io/badge/-Lovable-FF6B6B?style=flat-square&logoColor=white)
-![Magic Patterns](https://img.shields.io/badge/-Magic%20Patterns-7C3AED?style=flat-square&logoColor=white)
-![Perplexity](https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
 
-**Design:**
-![Pencil](https://img.shields.io/badge/-Pencil-000000?style=flat-square&logoColor=white)
-
-**Analytics & Experimentation:**
-![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/-Mixpanel-7856FF?style=flat-square&logoColor=white)
-
-**Data & Deployment:**
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**PM & Delivery:**
-![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Productboard](https://img.shields.io/badge/-Productboard-FF6154?style=flat-square&logoColor=white)
-
-**Voice & Lifecycle:**
-![Retell AI](https://img.shields.io/badge/-Retell%20AI-000000?style=flat-square&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
-![Braze](https://img.shields.io/badge/-Braze-FF6154?style=flat-square&logoColor=white)
-![Intercom](https://img.shields.io/badge/-Intercom-0057FF?style=flat-square&logo=intercom&logoColor=white)
 
 > 10+ years across consulting, operations, and product. Scaled platforms from $6M → $21M ARR, grew ecosystems from 40 → 130+ integrations, and shipped AI features that cut review time by 50%. Now I vibe code AI agents, ship fast, and trust the process.
 
@@ -68,6 +39,41 @@
 - 🔮 **Amplitude Predictions.** Deep learning model (Nova AutoML) that scores every user on churn or conversion propensity within 7 to 90 days, refreshed daily or hourly. **Chick-fil-A** used it to get ahead of lapsing customers, suppressing promos for low risk users and triggering retention for the high risk segment before anyone churned. Lesson: shifts teams from reactive to proactive retention.
 
 - 🎬 **Amplitude Session Replay AI.** Over 50% of new Replay users never opened the product. Those who did had to scrub through 10 to 15 minute videos to find anything useful. We shipped an LLM powered Summary Card grounded on structured event data (not raw video) to surface key actions and friction moments automatically. Built a labeled eval set from real customer replays to track groundedness, signal capture, and noise. Every prompt change ran against it before shipping. Result: **50% drop in replay review time, 17% lift in first time user activation**. Lesson: grounding beats clever prompting, and AI alone does not fix activation. The workflow change mattered just as much as the model.
+
+## My Product and Data Stack
+
+> The tools I use to prototype, ship, measure, and collaborate across the product lifecycle.
+
+**AI & Prototyping**
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF6B6B?style=flat-square&logoColor=white)
+![Magic Patterns](https://img.shields.io/badge/-Magic%20Patterns-7C3AED?style=flat-square&logoColor=white)
+![Perplexity](https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+
+**Design**
+![Pencil](https://img.shields.io/badge/-Pencil-000000?style=flat-square&logoColor=white)
+
+**Analytics & Experimentation**
+![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/-Mixpanel-7856FF?style=flat-square&logoColor=white)
+
+**Data & Deployment**
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**PM & Delivery**
+![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Productboard](https://img.shields.io/badge/-Productboard-FF6154?style=flat-square&logoColor=white)
+
+**Voice & Lifecycle**
+![Retell AI](https://img.shields.io/badge/-Retell%20AI-000000?style=flat-square&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+![Braze](https://img.shields.io/badge/-Braze-FF6154?style=flat-square&logoColor=white)
+![Intercom](https://img.shields.io/badge/-Intercom-0057FF?style=flat-square&logo=intercom&logoColor=white)
 
 ## Latest Blog Posts
 
