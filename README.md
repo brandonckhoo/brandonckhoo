@@ -56,9 +56,11 @@
 ![Perplexity](https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
 ![Wispr](https://img.shields.io/badge/-Wispr-000000?style=flat-square&logoColor=white)
 
+**Automation & Agents**<br>
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-000000?style=flat-square&logoColor=white)
+
 **Analytics & Experimentation**<br>
-![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/-Mixpanel-7856FF?style=flat-square&logoColor=white)
+![Amplitude](https://img.shields.io/badge/-Amplitude-0069FF?style=flat-square&logo=amplitude&logoColor=white)
 ![GrowthBook](https://img.shields.io/badge/-GrowthBook-0C4B33?style=flat-square&logoColor=white)
 
 **CRM & Growth Systems**<br>
@@ -104,7 +106,7 @@
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
 **Deployment**<br>
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -112,7 +114,6 @@
 </td>
 </tr>
 </table>
-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
