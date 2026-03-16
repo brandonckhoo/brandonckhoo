@@ -37,11 +37,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/brandonckhoo)
 
-## What I'm Doing
-
-- **Building ML products at Amplitude**: PM for Recommendations and Predictions — two of Amplitude's core AI features
-- **Writing about agentic AI**: Sharing what I learn building real agents at [agentgoose.substack.com](https://agentgoose.substack.com)
-- **Rapid prototyping**: Claude Code + Cursor + Vercel gets me from idea to working product in 24–72 hours. One new AI project per month, everything goes on the portfolio
 
 ## Relevant AI PM Experience
 
