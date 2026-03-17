@@ -16,6 +16,14 @@
   - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
   - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
 - 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
+
+### Product Teardowns
+
+- 🔬 **[11x Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: Built an end-to-end account-based workflow prototype showing how 11x Alice could move from target accounts to pipeline — with tighter control, better coordination, and measurable outcomes.
+  - ✓ Account selection and prioritisation based on ICP and intent signals
+  - ✓ Buying committee discovery, persona mapping, and account coverage
+  - ✓ Coordinated multi-persona messaging and campaign execution with review points
+
 ### Legacy Work
 
 - 📚 **[OpenClaw Archive Hub](https://openclaw-archive-hub.lovable.app/)**: A curated library to help people discover OpenClaw use cases. Browse real examples of AI chief-of-staff automation built on the OpenClaw framework
