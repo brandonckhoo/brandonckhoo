@@ -28,7 +28,7 @@
 - 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)**: Built end-to-end with Cursor, Claude, and Vercel. Full game loop with movement, shooting, enemies, scoring, and boss battles, shipped in a weekend
 - 🐍 **[Awesome Python Scripts](https://github.com/brandonckhoo/Awesome-Python-Scripts)**: Fork of a curated Python automation scripts collection
 
-### Product Teardowns
+### Product Redesigns
 
 - 🔬 **[11x Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: Built an end-to-end account-based workflow prototype showing how 11x Alice could move from target accounts to pipeline — with tighter control, better coordination, and measurable outcomes.
   - ✓ Account selection and prioritisation based on ICP and intent signals
