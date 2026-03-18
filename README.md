@@ -30,6 +30,11 @@
 
 ### Product Redesigns
 
+- 🧠 **[Go1 Content Intelligence Prototype](https://brandonkhoo-portfolio.vercel.app/go1-prototype/)**: A 4-screen interactive prototype showing how an AI layer (Morgan) can make recommendation decisions visible, explainable, and improvable — built as a take-home assignment for a Senior PM role at Go1.
+  - ✓ Recommendation explainability: 'Why this was recommended' panel surfacing role match, team activity, and skill gap signals
+  - ✓ Improvable feedback loop: dismiss flow trains Morgan and closes the intelligence loop
+  - ✓ Morgan agent activity log: shows the learner what the AI did on their behalf — calendar blocks, Slack nudges, rec updates
+
 - 🔬 **[11x Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: Built an end-to-end account-based workflow prototype showing how 11x Alice could move from target accounts to pipeline — with tighter control, better coordination, and measurable outcomes.
   - ✓ Account selection and prioritisation based on ICP and intent signals
   - ✓ Buying committee discovery, persona mapping, and account coverage
