@@ -30,7 +30,7 @@
 
 ### Product Redesigns
 
-- 🧠 **[Go1 Content Intelligence Prototype](https://brandonkhoo-portfolio.vercel.app/go1-prototype/)**: A 4-screen interactive prototype showing how an AI layer (Morgan) can make recommendation decisions visible, explainable, and improvable — built as a take-home assignment for a Senior PM role at Go1.
+- 🧠 **[Go1 Content Intelligence Prototype](https://brandonkhoo-portfolio.vercel.app/go1-prototype/)**: A 4-screen interactive prototype showing how an AI layer (Morgan) can make learning recommendations visible, explainable, and improvable for Go1's learner discovery experience.
   - ✓ Recommendation explainability: 'Why this was recommended' panel surfacing role match, team activity, and skill gap signals
   - ✓ Improvable feedback loop: dismiss flow trains Morgan and closes the intelligence loop
   - ✓ Morgan agent activity log: shows the learner what the AI did on their behalf — calendar blocks, Slack nudges, rec updates
