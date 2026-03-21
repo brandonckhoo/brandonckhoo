@@ -30,7 +30,7 @@
 
 ### Product Redesigns
 
-- 🛍️ **[Product Perfector AI](https://product-perfector-ai.lovable.app/)**: Clickable prototype for an AI-powered product mockup feature inside a fictional website builder for small businesses and creators. Helps non-technical merchants turn a basic product photo into polished, in-context website visuals through a guided workflow with strong defaults — no blank prompts, no complex design tools. Focused on product judgment, quality definition, and designing an AI-first experience that prioritises trust, simplicity, and publishable outputs.
+- 🛍️ **[Product Mockup AI](https://product-perfector-ai.lovable.app/)**: Clickable prototype for an AI-powered product mockup feature inside a fictional website builder for small businesses and creators. Helps non-technical merchants turn a basic product photo into polished, in-context website visuals through a guided workflow with strong defaults — no blank prompts, no complex design tools. Focused on product judgment, quality definition, and designing an AI-first experience that prioritises trust, simplicity, and publishable outputs.
 
 - 🧠 **[Go1 Content Intelligence Prototype](https://brandonkhoo-portfolio.vercel.app/go1-prototype/)**: Interactive prototype showing how an AI layer (Morgan) makes learning recommendations visible, explainable, and improvable, surfacing role signals, a dismiss feedback loop, and an agent activity log.
 
