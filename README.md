@@ -32,12 +32,9 @@
 
 ### Product Redesigns
 
-- 🧠 **[Go1 Content Intelligence Prototype](https://brandonkhoo-portfolio.vercel.app/go1-prototype/)**: Interactive prototype showing how an AI layer (Morgan) makes learning recommendations visible, explainable, and improvable, surfacing role signals, a dismiss feedback loop, and an agent activity log.
+- 🧠 **[Go1 Content Intelligence Prototype](https://brandonkhoo-portfolio.vercel.app/go1-prototype/)**: Interactive prototype showing how an AI layer (Morgan) makes learning recommendations visible, explainable, and improvable inside the LMS. Surfaces role signals, a dismiss feedback loop, and an agent activity log so admins can see why content is being recommended and course-correct in real time. Morgan also integrates with Slack to deliver personalised learning nudges and surface recommendations where teams already work.
 
-- 🔬 **[11x Alice ABM Prototype](https://alice-abm-prototype.vercel.app/)**: Built an end-to-end account-based workflow prototype showing how 11x Alice could move from target accounts to pipeline, with tighter control, better coordination, and measurable outcomes.
-  - ✓ Account selection and prioritisation based on ICP and intent signals
-  - ✓ Buying committee discovery, persona mapping, and account coverage
-  - ✓ Coordinated multi-persona messaging and campaign execution with review points
+- 🔬 **[11x Alice ABM Prototype](https://alice-abm-prototype.vercel.app/)**: Built an end-to-end account-based workflow prototype showing how 11x Alice could move from target accounts to pipeline, with tighter control, better coordination, and measurable outcomes. Covers account selection and prioritisation based on ICP and intent signals, buying committee discovery, persona mapping, and account coverage. Finishes with coordinated multi-persona messaging and campaign execution, with human review checkpoints at each stage.
 
 ## GitHub Activity
 
