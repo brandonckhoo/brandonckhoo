@@ -11,10 +11,6 @@
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets — with automated reporting and a local Mission Control dashboard.
 - 🌐 **[Portfolio](https://brandonkhoo-portfolio.vercel.app)**: A showcase of AI case studies, side projects, and my approach to building and shipping products fast. From idea to deployed in 24 to 72 hours using Claude Code, Cursor, and Vercel.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
-- 🏗️ **[Crevo Partners](https://www.crevopartners.com/)**: AI marketing agency for local contractors. We build high-converting websites, run SMS and email automations, manage online reputation, and deploy Voice AI agents to catch and convert leads. Tradies spend less time chasing work and more time on the tools.
-  - 🌿 [Landscaping](https://jozzycreative.crevopartners.com): SEO-optimised site for a local landscaping business
-  - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
-  - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
 - ⛽ **[Watch My Fuel](https://watchmyfuel.vercel.app/)**: Live QLD fuel price comparison tool. Search by suburb or address, view stations on an interactive map with pricing indicators, and track price trends by fuel type and brand
 
 ### Legacy Work
@@ -23,6 +19,10 @@
 - 📚 **[OpenClaw Archive Hub](https://openclaw-archive-hub.lovable.app/)**: A curated library to help people discover OpenClaw use cases. Browse real examples of AI chief-of-staff automation built on the OpenClaw framework
 - 🗺️ **[Travel Log](https://github.com/brandonckhoo/travel-log)**: Personal travel tracking app built with Next.js and Supabase. Deployed multiple AI agents via [Pencil](https://www.pencil.dev/) to design the first iteration. Globe and satellite map views, city cards with auto-fetched photos, trip type tagging, and live stats across countries, cities, and continents
 - 🧪 **[growth-experiment](https://github.com/brandonckhoo/growth-experiment)**: A Claude Code skill for Growth PMs. Give it a metric drop or funnel problem — it generates top 3 ranked experiment ideas using Akash Gupta's 10×10 behavioral trigger matrix, writes a full Atlassian-structured experiment brief, calculates sample size and runtime, and outputs a copy-paste ready Amplitude Experiment setup block
+- 🏗️ **[Crevo Partners](https://www.crevopartners.com/)**: AI marketing agency for local contractors. We build high-converting websites, run SMS and email automations, manage online reputation, and deploy Voice AI agents to catch and convert leads. Tradies spend less time chasing work and more time on the tools.
+  - 🌿 [Landscaping](https://jozzycreative.crevopartners.com): SEO-optimised site for a local landscaping business
+  - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
+  - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
 - 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)**: RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
 - 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)**: Android checklist app built around the Eisenhower Matrix. Prioritise by urgency and importance, tackle the hardest task first
 - 🎯 **[Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: End-to-end account-based workflow covering ICP scoring, buying committee discovery, and coordinated multi-persona messaging with human review checkpoints
