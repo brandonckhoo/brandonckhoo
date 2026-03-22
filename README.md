@@ -15,10 +15,11 @@
   - 🌿 [Landscaping](https://jozzycreative.crevopartners.com): SEO-optimised site for a local landscaping business
   - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
   - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
-- 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
+- ⛽ **[Watch My Fuel](https://watchmyfuel.vercel.app/)**: Live QLD fuel price comparison tool. Search by suburb or address, view stations on an interactive map with pricing indicators, and track price trends by fuel type and brand
 
 ### Legacy Work
 
+- 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
 - 📚 **[OpenClaw Archive Hub](https://openclaw-archive-hub.lovable.app/)**: A curated library to help people discover OpenClaw use cases. Browse real examples of AI chief-of-staff automation built on the OpenClaw framework
 - 🗺️ **[Travel Log](https://github.com/brandonckhoo/travel-log)**: Personal travel tracking app built with Next.js and Supabase. Deployed multiple AI agents via [Pencil](https://www.pencil.dev/) to design the first iteration. Globe and satellite map views, city cards with auto-fetched photos, trip type tagging, and live stats across countries, cities, and continents
 - 🧪 **[growth-experiment](https://github.com/brandonckhoo/growth-experiment)**: A Claude Code skill for Growth PMs. Give it a metric drop or funnel problem — it generates top 3 ranked experiment ideas using Akash Gupta's 10×10 behavioral trigger matrix, writes a full Atlassian-structured experiment brief, calculates sample size and runtime, and outputs a copy-paste ready Amplitude Experiment setup block
