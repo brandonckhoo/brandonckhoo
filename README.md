@@ -9,12 +9,12 @@
 ## Current Projects
 
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
-- 🌐 **[Portfolio](https://brandonkhoo-portfolio.vercel.app)**: A showcase of AI case studies, side projects, and my approach to building and shipping products fast. From idea to deployed in 24 to 72 hours using Claude Code, Cursor, and Vercel.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 - ⛽ **[Watch My Fuel](https://watchmyfuel.vercel.app/)**: Free live QLD fuel price comparison tool. Search by suburb or address, view stations on an interactive map with pricing indicators, and track price trends by fuel type and brand
 
 ### Legacy Work
 
+- 🌐 **[Portfolio](https://brandonkhoo-portfolio.vercel.app)**: A showcase of AI case studies, side projects, and my approach to building and shipping products fast. From idea to deployed in 24 to 72 hours using Claude Code, Cursor, and Vercel.
 - 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
 - 📚 **[OpenClaw Playbook](https://openclaw-archive-hub.lovable.app/)**: A curated collection of OpenClaw use cases. Browse real examples of AI chief-of-staff automation built on the OpenClaw framework
 - 🗺️ **[Travel Log](https://github.com/brandonckhoo/travel-log)**: Personal travel tracking app built with Next.js and Supabase. Deployed multiple AI agents via [Pencil](https://www.pencil.dev/) to design the first iteration. Globe and satellite map views, city cards with auto-fetched photos, trip type tagging, and live stats across countries, cities, and continents
