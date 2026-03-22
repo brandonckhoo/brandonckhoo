@@ -64,6 +64,8 @@
 ![Magic Patterns](https://img.shields.io/badge/-Magic%20Patterns-7C3AED?style=flat-square&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
 ![Wispr](https://img.shields.io/badge/-Wispr-000000?style=flat-square&logoColor=white)
+![nano Banana 2](https://img.shields.io/badge/-nano%20Banana%202-FFD700?style=flat-square&logoColor=black)
+![Google Stitch](https://img.shields.io/badge/-Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Automation & Agents**<br>
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-000000?style=flat-square&logoColor=white)
@@ -77,6 +79,7 @@
 ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![GHL](https://img.shields.io/badge/-GHL-000000?style=flat-square&logoColor=white)
 ![Gong](https://img.shields.io/badge/-Gong-6C63FF?style=flat-square&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 **Reliability & Observability**<br>
 ![DataDog](https://img.shields.io/badge/-DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white)
