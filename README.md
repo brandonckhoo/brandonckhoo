@@ -8,7 +8,7 @@
 
 ## Current Projects
 
-- 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets — with automated reporting and a local Mission Control dashboard.
+- 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
 - 🌐 **[Portfolio](https://brandonkhoo-portfolio.vercel.app)**: A showcase of AI case studies, side projects, and my approach to building and shipping products fast. From idea to deployed in 24 to 72 hours using Claude Code, Cursor, and Vercel.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 - ⛽ **[Watch My Fuel](https://watchmyfuel.vercel.app/)**: Live QLD fuel price comparison tool. Search by suburb or address, view stations on an interactive map with pricing indicators, and track price trends by fuel type and brand
