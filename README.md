@@ -23,7 +23,7 @@
   - 🌿 [Landscaping](https://jozzycreative.crevopartners.com): SEO-optimised site for a local landscaping business
   - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
   - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
-- 🛍️ **[Product Mockup AI](https://product-perfector-ai.lovable.app/)**: Clickable prototype for an AI-powered product mockup feature inside a fictional website builder for small businesses and creators. Helps non-technical merchants turn a basic product photo into polished, in-context website visuals through a guided workflow with strong defaults
+- 🛍️ **[Product Mockup AI](https://product-mockup.lovable.app/)**: Clickable prototype for an AI-powered product mockup feature inside a fictional website builder for small businesses and creators. Helps non-technical merchants turn a basic product photo into polished, in-context website visuals through a guided workflow with strong defaults
 - 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)**: RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
 - 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)**: Android checklist app built around the Eisenhower Matrix. Prioritise by urgency and importance, tackle the hardest task first
 - 🎯 **[Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: End-to-end account-based workflow covering ICP scoring, buying committee discovery, and coordinated multi-persona messaging with human review checkpoints
