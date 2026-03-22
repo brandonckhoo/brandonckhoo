@@ -120,6 +120,13 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
+**User Research**<br>
+![User Interviews](https://img.shields.io/badge/-User%20Interviews-6C63FF?style=flat-square&logoColor=white)
+![Tremendous](https://img.shields.io/badge/-Tremendous-00A878?style=flat-square&logoColor=white)
+![SurveyMonkey](https://img.shields.io/badge/-SurveyMonkey-00BF6F?style=flat-square&logoColor=white)
+![Typeform](https://img.shields.io/badge/-Typeform-262627?style=flat-square&logoColor=white)
+![Qualtrics](https://img.shields.io/badge/-Qualtrics-FF0000?style=flat-square&logoColor=white)
+
 **Deployment**<br>
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
