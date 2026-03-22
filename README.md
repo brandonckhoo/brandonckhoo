@@ -64,7 +64,7 @@
 ![Magic Patterns](https://img.shields.io/badge/-Magic%20Patterns-7C3AED?style=flat-square&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
 ![Wispr](https://img.shields.io/badge/-Wispr-000000?style=flat-square&logoColor=white)
-![nano Banana 2](https://img.shields.io/badge/-nano%20Banana%202-FFD700?style=flat-square&logoColor=black)
+![Nano Banana 2](https://img.shields.io/badge/-Nano%20Banana%202-FFD700?style=flat-square&logoColor=black)
 ![Google Stitch](https://img.shields.io/badge/-Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Automation & Agents**<br>
