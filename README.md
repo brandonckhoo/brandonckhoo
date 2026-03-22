@@ -126,6 +126,7 @@
 ![SurveyMonkey](https://img.shields.io/badge/-SurveyMonkey-00BF6F?style=flat-square&logoColor=white)
 ![Typeform](https://img.shields.io/badge/-Typeform-262627?style=flat-square&logoColor=white)
 ![Qualtrics](https://img.shields.io/badge/-Qualtrics-FF0000?style=flat-square&logoColor=white)
+![Google Forms](https://img.shields.io/badge/-Google%20Forms-7248B9?style=flat-square&logo=google&logoColor=white)
 
 **Deployment**<br>
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
