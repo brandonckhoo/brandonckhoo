@@ -43,13 +43,17 @@
 
 ## Select PM Experience
 
+### AI
+
 - 🎯 **Amplitude Recommendations.** Real time ranking engine that clusters users by behavioral signals, ranks items by likelihood to drive a target outcome, retrains hourly, and serves results via the Profile API in under a second. Worked with **HBO** to enrich content metadata with release date, category, and SKU so the model could surface new releases over old content. Result: **+20% engagement, +15% content consumption**. Lesson: recommendation quality is usually a data problem upstream, not a model problem.
 
 - 🔮 **Amplitude Predictions.** Deep learning model (Nova AutoML) that scores every user on churn or conversion propensity within 7 to 90 days, refreshed daily or hourly. **Chick-fil-A** used it to get ahead of lapsing customers, suppressing promos for low risk users and triggering retention for the high risk segment before anyone churned. Lesson: shifts teams from reactive to proactive retention.
 
 - 🎬 **Amplitude Session Replay AI.** Over 50% of new Replay users never opened the product. Those who did had to scrub through 10 to 15 minute videos to find anything useful. We shipped an LLM powered Summary Card grounded on structured event data (not raw video) to surface key actions and friction moments automatically. Built a labeled eval set from real customer replays to track groundedness, signal capture, and noise. Every prompt change ran against it before shipping. Result: **50% drop in replay review time, 17% lift in first time user activation**. Lesson: grounding beats clever prompting, and AI alone does not fix activation. The workflow change mattered just as much as the model.
 
-- 🌐 **Amplitude Developer Portal.** Amplitude was expanding from a single product to a multi-product platform with CDP as a company priority, but Sales couldn't build pipeline without ecosystem coverage and engineering was bottlenecked by custom integrations. I led the 0→1 developer motion: defined marketers as the initial ICP, prioritized audience activation APIs, and chose API key auth over OAuth to reduce partner onboarding friction. Built a self-serve portal with sandbox environments, data contract validation, and unified docs. Introduced a 4-tier partner model to align go-to-market investment to revenue impact. Result: **40 → 140 integrations**, hit the **10 CDP rip-and-replace** company goal. Lesson: ecosystem credibility is a sales problem as much as a product problem — the integration count changed how deals were won.
+### Ecosystem
+
+- 🌐 **Amplitude Developer Portal.** Amplitude was expanding from a single product to a multi-product platform with CDP as a company priority, but Sales couldn't build pipeline without ecosystem coverage and engineering was bottlenecked by custom integrations. I led the 0 to 1 developer motion: defined marketers as the initial ICP, prioritized audience activation APIs, and chose API key auth over OAuth to reduce partner onboarding friction. Built a self-serve portal with sandbox environments, data contract validation, and unified docs. Introduced a 4-tier partner model to align go-to-market investment to revenue impact. Result: **40 to 140 integrations**, hit the **10 CDP rip-and-replace** company goal. Lesson: ecosystem credibility is a sales problem as much as a product problem. The integration count changed how deals were won.
 
 ## My Product and Data Stack
 
