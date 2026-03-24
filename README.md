@@ -126,6 +126,7 @@
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **User Research**<br>
 ![User Interviews](https://img.shields.io/badge/-User%20Interviews-6C63FF?style=flat-square&logoColor=white)
