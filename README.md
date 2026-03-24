@@ -23,14 +23,15 @@
   - 🌿 [Landscaping](https://jozzycreative.crevopartners.com): SEO-optimised site for a local landscaping business
   - 🔧 [Plumbing](https://capplumbing.au/): Clean, conversion-focused site for a plumbing company
   - 💧 [Pressure Washing](https://pro-wash-shine.lovable.app/): Landing page for a powerwashing business
-- 🛍️ **[Product Mockup AI](https://product-mockup.lovable.app/)**: Clickable prototype for an AI-powered product mockup feature inside a fictional website builder for small businesses and creators. Helps non-technical merchants turn a basic product photo into polished, in-context website visuals through a guided workflow with strong defaults
 - 🦉 **[Internal Helpdesk Agent](https://github.com/brandonckhoo/Internal-Helpdesk-Agent)**: RAG-powered AI agent that resolves internal support tickets, routes to the right teams, and files bugs to Linear. LLM-as-judge scoring for relevance, accuracy, and citation quality
 - 🐸 **[Eat the Frog](https://github.com/brandonckhoo/eat-the-frog-checklist)**: Android checklist app built around the Eisenhower Matrix. Prioritise by urgency and importance, tackle the hardest task first
 - 🎯 **[Alice ABM Prototype](https://github.com/brandonckhoo/alice-abm-prototype)**: End-to-end account-based workflow covering ICP scoring, buying committee discovery, and coordinated multi-persona messaging with human review checkpoints
 - 🚀 **[Retro Space Shooter](https://github.com/brandonckhoo/space-shooter-game)**: Built end-to-end with Cursor, Claude, and Vercel. Full game loop with movement, shooting, enemies, scoring, and boss battles, shipped in a weekend
 - 🐍 **[Awesome Python Scripts](https://github.com/brandonckhoo/Awesome-Python-Scripts)**: Fork of a curated Python automation scripts collection
 
-### Product Redesigns
+### Product Design
+
+- 🛍️ **[Product Mockup AI](https://product-mockup.lovable.app/)**: Clickable prototype for an AI-powered product mockup feature inside a fictional website builder for small businesses and creators. Helps non-technical merchants turn a basic product photo into polished, in-context website visuals through a guided workflow with strong defaults
 
 - 🧠 **[Go1 Content Intelligence Prototype](https://brandonkhoo-portfolio.vercel.app/go1-prototype/)**: Interactive prototype showing how an AI layer (Morgan) makes learning recommendations visible, explainable, and improvable inside the LMS. Surfaces role signals, a dismiss feedback loop, and an agent activity log so admins can see why content is being recommended and course-correct in real time. Morgan also surfaces recommendations directly in Slack, meeting learners where they already spend their day rather than asking them to go back to the LMS.
 
