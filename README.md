@@ -11,7 +11,7 @@
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 - ⛽ **[Watch My Fuel](https://watchmyfuel.vercel.app/)**: Free live QLD fuel price comparison tool. Search by suburb or address, view stations on an interactive map with pricing indicators, and track price trends by fuel type and brand
-- 🏠 **[Floating House Design Concept](https://omma.build/p/remix-floating-house-design-concept-hh0g2g)**: A 3D floating family home concept built with OMma. Exploring generative architecture and spatial design using AI-assisted 3D modelling tools
+- 🏠 **[Floating House Design Concept](https://omma.build/p/remix-floating-house-design-concept-hh0g2g)**: A 3D floating family home concept built with Omma. Exploring generative architecture and spatial design using AI-assisted 3D modelling tools
 - 🎮 **[Pokémon Fan Game](https://kanto-monopoly-quest.lovable.app)**: A browser-based game built around the original 151 Pokémon. Covers the full battle loop, type matchups, and classic mechanics from Gen 1
 - 🦷 **[Brisbane Dental Website](https://moda.app/s/Iv9mOuI-Z_zpAJvMchymHQ)**: Clean, conversion-focused dental practice website designed and prototyped in Moda
 
