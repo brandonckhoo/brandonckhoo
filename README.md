@@ -41,7 +41,7 @@
 
 - 🔬 **[11x Alice ABM Prototype](https://alice-abm-prototype.vercel.app/)**: Built an end-to-end account-based workflow prototype showing how 11x Alice could move from target accounts to pipeline, with tighter control, better coordination, and measurable outcomes. Covers account selection and prioritisation based on ICP and intent signals, buying committee discovery, persona mapping, and account coverage. Finishes with coordinated multi-persona messaging and campaign execution, with human review checkpoints at each stage.
 
-- 🛡️ **[Drata TPRM Continuous Monitoring](https://brandonkhoo-portfolio.vercel.app/tprm-monitoring)**: Prototype rethinking how Drata's Continuous Monitoring could move from a passive vendor change feed into an actionable risk system. Connects Drata's existing assets — vendor records, questionnaires, AI evidence review, and the risk register — into a post-onboarding vendor risk workflow that detects meaningful risk shifts, explains why they matter, and tells teams what to do next.
+- 🛡️ **[Drata TPRM Continuous Monitoring](https://brandonkhoo-portfolio.vercel.app/tprm-monitoring)**: Prototype rethinking how Drata's Continuous Monitoring could move from a passive vendor change feed into an actionable risk system. Connects Drata's existing assets (vendor records, questionnaires, AI evidence review, and the risk register) into a post-onboarding vendor risk workflow that detects meaningful risk shifts, explains why they matter, and tells teams what to do next.
 
 ## GitHub Activity
 
