@@ -15,6 +15,7 @@
   - 🏠 **[Floating House Design Concept](https://omma.build/p/remix-floating-house-design-concept-hh0g2g)**: A 3D floating family home concept built with Omma. Exploring generative architecture and spatial design using AI-assisted 3D modelling tools
   - 🎮 **[Pokémon Fan Game](https://kanto-monopoly-quest.lovable.app)**: A browser-based game built around the original 151 Pokémon. Covers the full battle loop, type matchups, and classic mechanics from Gen 1
   - 🦷 **[Brisbane Dental Website](https://moda.app/s/Iv9mOuI-Z_zpAJvMchymHQ)**: Clean, conversion-focused dental practice website designed and prototyped in Moda
+  - 🪟 **[Viral Glass AI](https://viral-glass-ai.lovable.app/)**: Dark-themed landing page for an AI web design agency. Built with React, Tailwind, and Framer Motion. Features a liquid glass glassmorphism aesthetic with a cinematic hero backdrop
 
 ### Legacy Work
 
