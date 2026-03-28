@@ -10,7 +10,6 @@
 
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
-- ⛽ **[Watch My Fuel](https://watchmyfuel.vercel.app/)**: Free live QLD fuel price comparison tool. Search by suburb or address, view stations on an interactive map with pricing indicators, and track price trends by fuel type and brand
 - 🌐 **Curated Website Projects**: A collection of websites and interactive experiences designed and built using AI-assisted tools
   - 🏠 **[Floating House Design Concept](https://omma.build/p/remix-floating-house-design-concept-hh0g2g)**: A 3D floating family home concept built with Omma. Exploring generative architecture and spatial design using AI-assisted 3D modelling tools
   - 🎮 **[Pokémon Fan Game](https://kanto-monopoly-quest.lovable.app)**: A browser-based game built around the original 151 Pokémon. Covers the full battle loop, type matchups, and classic mechanics from Gen 1
@@ -19,6 +18,7 @@
 
 ### Legacy Work
 
+- ⛽ **[Watch My Fuel](https://watchmyfuel.vercel.app/)**: Free live QLD fuel price comparison tool. Search by suburb or address, view stations on an interactive map with pricing indicators, and track price trends by fuel type and brand
 - 🌐 **[Portfolio](https://brandonkhoo-portfolio.vercel.app)**: A showcase of AI case studies, side projects, and my approach to building and shipping products fast. From idea to deployed in 24 to 72 hours using Claude Code, Cursor, and Vercel.
 - 🧠 **[Brandon's PM OS](https://github.com/brandonckhoo/brandons-pm-os)**: Open-source personal operating system for Claude Code. Built for PMs with a full workspace structure, 4 custom slash commands (/standup, /weekly-update, /new-post, /ship-check), a self-improving skill that extracts reusable knowledge from every session, and a growing library of PM-specific Claude Code skills
 - 📚 **[OpenClaw Playbook](https://openclaw-archive-hub.lovable.app/)**: A curated collection of OpenClaw use cases. Browse real examples of AI chief-of-staff automation built on the OpenClaw framework
