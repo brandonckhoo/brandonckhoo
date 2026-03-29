@@ -8,6 +8,7 @@
 
 ## Current Projects
 
+- 🐾 **[Bring Simba Home](https://simba-pathfinder.lovable.app/)**: Moving Simba (Border Collie) from the US back to Australia. Tracking import requirements, vet timelines, and quarantine steps end-to-end.
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 - 🌐 **Curated Website Projects**: A collection of websites and interactive experiences designed and built using AI-assisted tools
