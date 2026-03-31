@@ -104,6 +104,9 @@
 ![Retell AI](https://img.shields.io/badge/-Retell%20AI-000000?style=flat-square&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
 
+**Marketing**<br>
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+
 </td>
 <td valign="top" width="50%">
 
