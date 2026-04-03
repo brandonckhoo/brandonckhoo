@@ -171,6 +171,7 @@
 [![Twitter](https://img.shields.io/badge/-@brandonckhoo-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/brandonckhoo)
 [![LinkedIn](https://img.shields.io/badge/-brandoncharleskhoo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandoncharleskhoo)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brandonckhoo)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/brandonckhoo)
 
 ---
 
