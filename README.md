@@ -8,7 +8,9 @@
 
 ## Current Projects
 
-- 📞 **[Retell AI](https://www.retellai.com/)**: PM on the voice AI platform. I work the developer-facing surface: agent tooling and functions, CRM and telephony integrations, and the public [docs](https://docs.retellai.com/). Most of the day job lives in private repos, so it shows up on the graph rather than in this list.
+- 📞 **[Retell AI](https://www.retellai.com/)**: AI voice agents for Fortune 500 companies and modern call centers, backed by Jack Altman and Y Combinator. Retell powers enterprise grade phone agents across sales, support, and operations, trusted by thousands of businesses and running 50M+ conversations a month. The vision is an AI native contact center platform where AI workers do more than answer calls: they improve quality, monitor performance, and help run the operation end to end.
+
+  I'm PM on the developer-facing surface: [Conductor](https://www.retellai.com/blog/introducing-conductor), agent tooling and functions, CRM and telephony integrations, and the public [docs](https://docs.retellai.com/). Most of the day job lives in private repos, so it shows up on the graph rather than in this list.
 
 ### Legacy Work
 
@@ -55,6 +57,8 @@
 ## Select PM Experience
 
 ### AI
+
+- 🎛️ **[Retell Conductor](https://www.retellai.com/blog/introducing-conductor).** Copilot for building voice agents, shipped inside the Retell platform. General purpose copilots write text they never validate, but a voice agent is a working system of prompts, steps, tools, and settings where one change cascades through the rest. Conductor reviews edits graph-natively, surfacing each change on the exact setting it touches with old and new side by side, and encodes 2000+ deployment best practices drawn from enterprise rollouts. It reads failed calls, writes test cases, and reruns simulations to prove a fix holds before anyone dials out. Result: **100% valid agent modifications, 60% less build time, 2.5x faster from idea to first production agent**. Internally it now writes **70% of our simulation tests and 50% of agent edits**. Lesson: a copilot that cannot verify its own output is just a text generator. The validation loop is the product.
 
 - 🎯 **Amplitude Recommendations.** Real time ranking engine that clusters users by behavioral signals, ranks items by likelihood to drive a target outcome, retrains hourly, and serves results via the Profile API in under a second. Worked with **HBO** to enrich content metadata with release date, category, and SKU so the model could surface new releases over old content. Result: **+20% engagement, +15% content consumption**. Lesson: recommendation quality is usually a data problem upstream, not a model problem.
 
