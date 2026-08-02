@@ -12,7 +12,7 @@
 
   I'm PM on the developer-facing surface: [Conductor](https://www.retellai.com/blog/introducing-conductor), agent tooling and functions, CRM and telephony integrations, and the public [docs](https://docs.retellai.com/). Most of the day job lives in private repos, so it shows up on the graph rather than in this list.
 
-### Legacy Work
+### Past Projects
 
 - 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
 - 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
