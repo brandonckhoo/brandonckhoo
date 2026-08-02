@@ -9,11 +9,11 @@
 ## Current Projects
 
 - 📞 **[Retell AI](https://www.retellai.com/)**: PM on the voice AI platform. I work the developer-facing surface: agent tooling and functions, CRM and telephony integrations, and the public [docs](https://docs.retellai.com/). Most of the day job lives in private repos, so it shows up on the graph rather than in this list.
-- 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
-- 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 
 ### Legacy Work
 
+- 🦞 **OpenClaw**: Personal AI chief-of-staff system. Agnes orchestrates CPO, CTO, CMO, and CRO agents across Google Calendar, Gmail, Discord, and Google Sheets with automated reporting and a local Mission Control dashboard.
+- 🪿 **[Agent Goose](https://agentgoose.substack.com/)**: Writing about the future of agentic AI and what it means to build, ship, and work alongside AI day to day
 - 🐾 **[Bring Simba Home tracker](https://simba-pathfinder.lovable.app/)**: Internal tracker for moving Simba (Border Collie) from the US back to Australia. Tracks import requirements, vet timelines, and quarantine steps end-to-end.
 
 - 🌐 **Curated Website Projects**: A collection of websites and interactive experiences designed and built using AI-assisted tools
