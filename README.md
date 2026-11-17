@@ -49,6 +49,10 @@ Previously Amplitude, Uber, KPMG. Brisbane ↔ San Francisco.
 * 🔬 [**11x Alice ABM**](https://alice-abm-prototype.vercel.app/): account based workflow from ICP scoring to multi persona outreach
 * 🛡️ [**Drata TPRM Monitoring**](https://brandonkhoo-portfolio.vercel.app/tprm-monitoring): vendor risk monitoring that tells teams what to do next
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=brandonckhoo&hide_border=true)
+
 ## Before
 
 * **Amplitude:** Recommendations, Predictions, Session Replay AI, Developer Portal (integrations 40 → 140)
