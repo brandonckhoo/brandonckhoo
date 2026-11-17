@@ -33,10 +33,10 @@ Now at **Retell AI**, building voice agents and the developer platform around th
 
 * 🎛️ [**Retell Conductor**](https://brandonkhoo-portfolio.vercel.app/work/retell-conductor): copilot for building voice agents, 2.5x faster to first production agent
 * 🧠 [**brandons-pm-os**](https://github.com/brandonckhoo/brandons-pm-os): personal operating system for PMs working with Claude Code
-* 🦞 **OpenClaw**: personal AI chief of staff with CPO, CTO, CMO and CRO agents
+* 🦉 [**Internal Helpdesk Agent**](https://internal-helpdesk-agent.vercel.app/): RAG agent that resolves tickets, routes them and files bugs to Linear
+* 🎙️ [**Cosmo Labs**](https://cosmo-voice-spark.lovable.app/): voice AI agent demos built on Retell
+* 🧠 [**Go1 Content Intelligence**](https://brandonkhoo-portfolio.vercel.app/go1-prototype/): explainable AI learning recommendations in the LMS and Slack
 * 🌐 [**Portfolio**](https://brandonkhoo-portfolio.vercel.app): case studies and AI projects, idea to deployed in 24 to 72 hours
-* 🪿 [**Agent Goose**](https://agentgoose.substack.com/): writing on agentic AI
-* ⛽ [**Watch My Fuel**](https://watchmyfuel.vercel.app/): live QLD fuel price comparison
 
 ## Current Projects
 
@@ -51,9 +51,7 @@ Now at **Retell AI**, building voice agents and the developer platform around th
 ### AI Agents and Tools
 
 * 🧠 [**brandons-pm-os**](https://github.com/brandonckhoo/brandons-pm-os): workspace, 4 slash commands and a self improving skill
-* 🦞 **OpenClaw**: executive agents across Calendar, Gmail, Discord and Sheets
-* 📚 [**OpenClaw Playbook**](https://openclaw-archive-hub.lovable.app/): curated OpenClaw use cases
-* 🦉 [**Internal Helpdesk Agent**](https://internal-helpdesk-agent.vercel.app/): RAG agent that resolves tickets, routes them and files bugs to Linear
+* 🦉 [**Internal Helpdesk Agent**](https://internal-helpdesk-agent.vercel.app/): RAG agent with LLM judge scoring for relevance, accuracy and citations
 * 🎙️ [**Cosmo Labs**](https://cosmo-voice-spark.lovable.app/): voice AI agent demos built on Retell
 
 ### Apps and Games
@@ -82,6 +80,8 @@ Now at **Retell AI**, building voice agents and the developer platform around th
 
 ### Legacy Work
 
+* 🦞 **OpenClaw**: personal AI chief of staff with CPO, CTO, CMO and CRO agents across Calendar, Gmail, Discord and Sheets
+* 📚 [**OpenClaw Playbook**](https://openclaw-archive-hub.lovable.app/): curated OpenClaw use cases
 * 🧪 [**growth-experiment**](https://github.com/brandonckhoo/growth-experiment): Claude Code skill that ranked experiment ideas and set up Amplitude Experiment launches
 * 🐍 [**Awesome Python Scripts**](https://github.com/brandonckhoo/Awesome-Python-Scripts): fork of a Python automation collection
 
