@@ -32,10 +32,6 @@ Now at **Retell AI**, building voice agents and the developer platform around th
 ## Start Here
 
 * 🎛️ [**Retell Conductor**](https://brandonkhoo-portfolio.vercel.app/work/retell-conductor): copilot for building voice agents, 2.5x faster to first production agent
-* 🧠 [**brandons-pm-os**](https://github.com/brandonckhoo/brandons-pm-os): personal operating system for PMs working with Claude Code
-* 🦉 [**Internal Helpdesk Agent**](https://internal-helpdesk-agent.vercel.app/): RAG agent that resolves tickets, routes them and files bugs to Linear
-* 🎙️ [**Cosmo Labs**](https://cosmo-voice-spark.lovable.app/): voice AI agent demos built on Retell
-* 🧠 [**Go1 Content Intelligence**](https://brandonkhoo-portfolio.vercel.app/go1-prototype/): explainable AI learning recommendations in the LMS and Slack
 * 🌐 [**Portfolio**](https://brandonkhoo-portfolio.vercel.app): case studies and AI projects, idea to deployed in 24 to 72 hours
 
 ## Current Projects
